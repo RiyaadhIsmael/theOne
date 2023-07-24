@@ -1,0 +1,16 @@
+import json
+
+data = [
+    {
+        "author": "riyaadh1",
+        "name": "riyaadh1",
+        "keyWords": "keyword1,keyword2",
+        "version": "1.1.0",
+        "dofusVersion": "2.68",
+        "description": "meu tema",
+        "url": "https://github.com/RiyaadhIsmael/theOne/blob/main/riyaadh.zip",
+        "previewUrl": "https://github.com/RiyaadhIsmael/theOne/blob/main/preview.png",
+        "creationDate": "08/10/2017",
+        "modificationDate": "11/07/2023"
+    }
+]
